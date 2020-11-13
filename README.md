@@ -17,7 +17,7 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/pgmgent-thibdema/pgmgent-thibdema">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgmgent-thibdema&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgmgent-thibdema&hide=css,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/pgmgent-thibdema/pgmgent-thibdema">
