@@ -35,7 +35,7 @@
 </a>
 
 <a href="https://github.com/pgmgent-1920-students/case1-pgm-website-pgmgent-thibdema">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pgmgent-1920-students&repo=case1-pgm-website-pgmgent-thibdema&title_color=ffffff&text_color=c9cacc&icon_color=FB3449&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pgmgent-1920-students&repo=case1-pgm-website-pgmgent-thibdema&hide=css,html&title_color=ffffff&text_color=c9cacc&icon_color=FB3449&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/pgmgent-1920-students/eindwerk-pgmgent-thibdema">
