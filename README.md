@@ -26,17 +26,24 @@
 
 ## 🛠 Repositories
 
-<a href="https://github.com/pgmgent-1920-students/eindwerk-CedricDeBlanck">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pgmgent-1920-students&repo=eindwerk-CedricDeBlanck&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/pgm-webpgm4/2021-werkstuk-react-app-pgmgent-thibdema">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pgm-webpgm4&repo=2021-werkstuk-react-app-pgmgent-thibdema&title_color=ffffff&text_color=c9cacc&icon_color=FB3449&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/pgmgent-1920-students/case1-pgm-website-CedricDeBlanck">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pgmgent-1920-students&repo=case1-pgm-website-CedricDeBlanck&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/pgm-webpgm4/2021-werkstuk-graphql-api-pgmgent-thibdema">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pgm-webpgm4&repo=2021-werkstuk-graphql-api-pgmgent-thibdema&title_color=ffffff&text_color=c9cacc&icon_color=FB3449&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/pgmgent-1920-students/case-3-establis-CedricDeBlanck">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pgmgent-1920-students&repo=case-3-establis-CedricDeBlanck&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/pgmgent-1920-students/case1-pgm-website-pgmgent-thibdema">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pgmgent-1920-students&repo=case1-pgm-website-pgmgent-thibdema&title_color=ffffff&text_color=c9cacc&icon_color=FB3449&bg_color=1d1f21" />
 </a>
+
+<a href="https://github.com/pgmgent-1920-students/eindwerk-pgmgent-thibdema">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pgmgent-1920-students&repo=eindwerk-pgmgent-thibdema&title_color=ffffff&text_color=c9cacc&icon_color=FB3449&bg_color=1d1f21" />
+</a>
+
+## ✋ Some info
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
