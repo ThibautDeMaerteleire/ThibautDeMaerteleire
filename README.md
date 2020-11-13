@@ -49,6 +49,6 @@
 - 👯 I’m looking to collaborate on a project where I want to make full-stack mobile applications
 - 🤔 I’m looking for help with the same as above
 - 💬 Ask me about anything you want.
-- 📫 How to reach me: [thibautdemaerteleire.be](thibautdemaerteleire.be)
+- 📫 How to reach me: [thibautdemaerteleire.be](https://www.thibautdemaerteleire.be)
 - 😄 Pronouns: Thibaut, Thibalt, Thibaubo
 - ⚡ Fun fact: I'm a life enjoyer who loves food.
