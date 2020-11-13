@@ -50,5 +50,5 @@
 - 🤔 I’m looking for help with the same as above
 - 💬 Ask me about anything you want.
 - 📫 How to reach me: [thibautdemaerteleire.be](https://www.thibautdemaerteleire.be)
-- 😄 Pronouns: Thibaut, Thibalt, Thibaubo
+- 😄 Nicknames: Thibaut, Thibalt, Thibaubo
 - ⚡ Fun fact: I'm a life enjoyer who loves food.
