@@ -16,12 +16,12 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/pgmgent-thibdema/pgmgent-thibdema">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgmgent-thibdema&hide=css,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/ThibautDeMaerteleire/ThibautDeMaerteleire">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThibautDeMaerteleire&hide=css,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/pgmgent-thibdema/pgmgent-thibdema">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pgmgent-thibdema&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=FB3449&bg_color=1d1f21" alt="Cédric's GitHub Stats" /> 
+<a href="https://github.com/ThibautDeMaerteleire/ThibautDeMaerteleire">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThibautDeMaerteleire&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=FB3449&bg_color=1d1f21" alt="Cédric's GitHub Stats" /> 
 
 
 ## 🛠 Repositories
@@ -44,10 +44,9 @@
 
 ## ✋ Some info
 
-- 🔭 I’m currently working on a 3D project with react-three-fiber
-- 🌱 I’m currently learning react-three-fiber
-- 👯 I’m looking to collaborate on a project where I want to make full-stack mobile applications
-- 🤔 I’m looking for help with the same as above
+- 🔭 I’m currently working on an Expo React-native application
+- 🌱 I’m currently learning Angular
+- 👯 I’m open for collaborations
 - 💬 Ask me about anything you want.
 - 📫 How to reach me: [thibautdemaerteleire.be](https://www.thibautdemaerteleire.be)
 - 😄 Nicknames: Thibaut, Thibalt, Thibaubo
