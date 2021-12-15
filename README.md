@@ -1,6 +1,6 @@
 
 
-[![Header](https://github.com/pgmgent-thibdema/pgmgent-thibdema/blob/main/images/github_profile.jpg?raw=true "Header")](https://www.thibautdemaerteleire.be/)
+//[![Header](https://github.com/pgmgent-thibdema/pgmgent-thibdema/blob/main/images/github_profile.jpg?raw=true "Header")](https://www.thibautdemaerteleire.be/)
 
 ## 🔧 Technologies & Tools
 
@@ -44,8 +44,6 @@
 
 ## ✋ Some info
 
-- 🔭 I’m currently working on an Expo React-native application
-- 🌱 I’m currently learning Angular
 - 👯 I’m open for collaborations
 - 💬 Ask me about anything you want.
 - 📫 How to reach me: [thibautdemaerteleire.be](https://www.thibautdemaerteleire.be)
