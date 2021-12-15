@@ -1,7 +1,3 @@
-
-
-//[![Header](https://github.com/pgmgent-thibdema/pgmgent-thibdema/blob/main/images/github_profile.jpg?raw=true "Header")](https://www.thibautdemaerteleire.be/)
-
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=FB3449)
